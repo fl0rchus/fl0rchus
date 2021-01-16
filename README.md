@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Flor</h1>
 <h3 align="center">A frontend developer and from Argentina</h3>
 
-- 🌱 I’m currently learning **React and Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **quinterosflorencia0@gmail.com**
 
-- ⚡ Fun fact **I started with frontend and now i consider moving to backend with java (but it's an idea for now)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
