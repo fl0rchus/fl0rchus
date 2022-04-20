@@ -1,9 +1,7 @@
 <h1 align="center">Hi everyone ✨ it's Flor here</h1>
-<h3 align="center">21 years old Junior Frontend Developer from Argentina.</h3>
+<h3 align="center">Frontend Developer from Argentina.</h3>
 
-- 🔭 I’m currently working in **[Corebiz](https://www.corebiz.ag/pt/)**
-
-- 🌱 I’m currently learning **NodeJS and Python 🐍**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **HTML, CSS, React, JavaScript 💖**
 
