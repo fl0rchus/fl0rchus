@@ -22,7 +22,7 @@ I have already started a self-taught study journey to learn about these topics a
 ## Some things about me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Inventa](https://www.linkedin.com/company/inventashop/mycompany/)  
+
   
 
 - 🌱 I’m currently learning NextJS, a little bit of Python and some stuff about infosec  
